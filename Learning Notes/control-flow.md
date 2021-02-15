@@ -65,9 +65,3 @@ Booleans are a data type in Python, much like integers, floats, and strings. How
 
 The Python Boolean not operator is used in a Boolean expression in order to evaluate the expression to its inverse value. If the original expression was True, including the not operator would make the expression False, and vice versa.
 
-not True     # Evaluates to False
-not False    # Evaluates to True
-1 > 2        # Evaluates to False
-not 1 > 2    # Evaluates to True
-1 == 1       # Evaluates to True
-not 1 == 1   # Evaluates to False
