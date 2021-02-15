@@ -4,5 +4,5 @@ I will be learning Python, sharing my notes here, and writing blog posts on topi
 
 
 ### Sponsored by:
-![New Relic Logo](https://pbs.twimg.com/profile_images/1145723576042967040/Rvy-DQK7_400x400.png)(https://bit.ly/3jK8lWZ)
+<a href="https://bit.ly/3jK8lWZ"><img src="https://pbs.twimg.com/profile_images/1145723576042967040/Rvy-DQK7_400x400.png" alt="New Relic Logo"> </a>
 
