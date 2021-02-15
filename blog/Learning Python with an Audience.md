@@ -1,3 +1,4 @@
+*published on [The Relicans](https://www.therelicans.com/therelicans/learning-python-with-an-audience-485i)*
 
 Hello and welcome :)
 
