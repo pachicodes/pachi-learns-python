@@ -36,9 +36,8 @@ In Python, relational operators compare two values or expressions. The most comm
 
 ### if Statement
 The Python if statement is used to determine the execution of code based on the evaluation of a Boolean expression.
-
-    If the if statement expression evaluates to True, then the indented code following the statement is executed.
-    If the expression evaluates to False then the indented code following the if statement is skipped and the program executes the next line of code which is indented at the same level as the if statement.
+If the if statement expression evaluates to True, then the indented code following the statement is executed.
+If the expression evaluates to False then the indented code following the if statement is skipped and the program executes the next line of code which is indented at the same level as the if statement.
 
 
 ### elif Statement
