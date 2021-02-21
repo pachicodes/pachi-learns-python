@@ -15,29 +15,29 @@ Python supports all the basic math operations:
 - Plus-Equals Operator +=
 It is a way to add value to an existing variable. 
 So in:
-`` 
+```
 number = 7
 number += 10
-``
+```
 Number will be 17, because we added 10 to 7.
 
 - Variables
 Variables store data.
 In Python you don't need to use any key work, just your variable name, = , what you want to store as a variable.
-`` 
+``` 
 number = 7
-``
+```
 
 - String Concatenation
 Python, like JavaScript, supports the joining (concatenation) of strings together using the + operator.
 The code above will return Hello you.
 
-``
+```
 word = "hello "
 name = "you"
 
 word + You
-``
+```
 
 - Zero Division Error
 Python will throw an error if you try to use 0 as a denominator in a division.
