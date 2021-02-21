@@ -4,6 +4,8 @@ Hello and welcome :)
 
 Most of us have New Year Resolutions and for 2021 I decided to learn a new programming language.
 Python was the chosen one, and I will be sharing with you my learning journey.
+
+#
 ![Code snipped in Python: print("Hello, World!")](https://www.therelicans.com/remoteimages/i/2s0b5lincq76aw37nq0i.png)
   
 
