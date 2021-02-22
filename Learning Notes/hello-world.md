@@ -56,4 +56,4 @@ You can also add a text to it, to prompt the user to enter their input.
 input("Hi, please enetr your name: ")
 ```
 
-*Note that inputs assume that the type is string. SO if you want a number, you have to parse yhe input into a number type*
+*Note that inputs assume that the type is string. SO if you want a number, you have to parse yhe input into a number type with int(input('type the number:))*
