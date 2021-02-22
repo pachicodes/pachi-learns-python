@@ -47,4 +47,14 @@ The Python elif statement (similar to JavaScript Else if) allows for continued c
 The Python else statement provides alternate code to execute if the expression in an if statement evaluates to False.
 
 
+### Exception Handler
+```
+try:
+# all operations are done within this block.
+. . . . . . 
+except:
+# this block will get executed if any exception are found on the try block.
+. . . . . .
+```
+
 
