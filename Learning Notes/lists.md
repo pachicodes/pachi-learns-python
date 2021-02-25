@@ -33,3 +33,32 @@ range(2, 11, 2)
 ```
 
 The example above will print 2, 4, 6, 8, 10
+
+
+### Negative List Indices
+You can use negative index to acess elements in relations to the end of the list.
+
+### List Method .count()
+You can search a list for how many times an item appears on it 
+
+### Determining List Length with len()
+Use len() to find out a list length
+
+### List Method .sort()
+You can sort a list on numeric or alphabetic order with sort.
+It DOES NOT create a new list, but modifies it.
+
+
+### sorted() Function
+This function creates a new list, sorting the contents of the original.
+
+
+### List Slicing
+You can slice a list, meaning, select what part of the list you want to sue to create a new list.
+It automatically stars on index 0, unless you change it. The new lists goes until the second number -1.
+```
+numbers = [0, 1, 2, 3]
+numbers1 = numbers[1:3]
+
+```
+In the example above, numbers1 would print 1, 2. 
